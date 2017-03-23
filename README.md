@@ -1,2 +1,0 @@
-# angular
-tutoriales para angular
